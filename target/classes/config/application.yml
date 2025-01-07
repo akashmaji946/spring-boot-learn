@@ -1,0 +1,6 @@
+server:
+  port: 8090
+
+myapp:
+  name: haha
+  version: 10
